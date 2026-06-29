@@ -180,14 +180,8 @@ Codeforces         — profile/X_xp
 
 <div align="center">
 
-<!-- Основной вариант -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Xx5830&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xx5830&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
 <!-- Если не работает — раскомментируй этот блок (альтернативный сервис) -->
-<!--
 <img src="https://streak-stats.demolab.com?user=Xx5830&theme=tokyonight&hide_border=true" />
--->
 
 </div>
 
