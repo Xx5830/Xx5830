@@ -124,7 +124,7 @@ int main() {
 ![RISC-V ISA](https://img.shields.io/badge/RISC--V%20ISA-4a0060?style=flat-square)
 ![binary](https://img.shields.io/badge/binary%20parsing-5e0080?style=flat-square)
 
-ELF в RISC-V asm. Разбор машинного кода в читаемый ассемблер без сторонних библиотек - понимание ISA изнутри.
+ELF в RISC-V asm. Разбор машинного кода в читаемый ассемблер без сторонних библиотек.
 
 <br/>
 
